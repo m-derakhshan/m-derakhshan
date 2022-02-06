@@ -1,26 +1,26 @@
-### Hi there 👋
+### Hi there I'm Mohammad! 👋
 
 <!--
 **m-derakhshan/m-derakhshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-<h3>Statistical Data :-</h3>
+- 🔭 I’m currently a master student at University of Milan
+- 🌱 I’m currently learning applying test deriven development on android application
+- 💬 I would be more that happy, if you have any question about android
+- 📫 drop me a message: darakhshan1376@gmail.com
 
+<h3> 📊 Statistical Data :</h3>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <center>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=m-derakhshan&" alt="m-derakhshan" style="text-align:center" /></p>
 </center>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 
 
 <div>
