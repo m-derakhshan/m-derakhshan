@@ -27,4 +27,25 @@ Here are some ideas to get you started:
     alt="m-derakhshan" />
 
 
-
+<h3> 🌐 Reach me in social media :</h3>
+<p align="left">
+    
+  <a href="https://www.linkedin.com/in/mohammad-derakhshan" target="blank"><img align="center"
+      src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"
+      alt="Mohammad Derakhshan" height="30" width="30" /></a>
+    
+  <a href="https://stackoverflow.com/users/9470643/mohammad" target="blank"><img align="center"
+      src="https://cdn4.iconfinder.com/data/icons/socialcones/508/StackOverflow-256.png"
+      alt="Mohammad Derakhshan" height="30" width="30" /></a>
+    
+  <a href="https://www.instagram.com/mohammad.darakhshan/" target="blank"><img align="center"
+      src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"
+      alt="Mohammad Derakhshan" height="30" width="30" /></a>
+    
+    
+  <a href="https://g.dev/derakhshan.com" target="blank"><img align="center"
+      src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Google-256.png"
+      alt="Mohammad Derakhshan" height="30" width="30" /></a>
+    
+    
+</p>
