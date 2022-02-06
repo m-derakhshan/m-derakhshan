@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <h3>Statistical Data :-</h3>
+
+<br>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=m-derakhshan&show_icons=true&locale=en&layout=compact"
     alt="m-derakhshan" /></p>
 
-<br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-derakhshan&show_icons=true&locale=en"
     alt="m-derakhshan" /></p>
 
-<br>
+</br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-derakhshan&" alt="m-derakhshan" /></p>
