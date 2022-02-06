@@ -23,17 +23,8 @@ Here are some ideas to get you started:
 
 
 
-<div>
-<p>
-
-<img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=m-derakhshan&show_icons=true&locale=en&layout=compact"
-    alt="m-derakhshan"/>
-</p>
-<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-derakhshan&show_icons=true&locale=en"
     alt="m-derakhshan" />
-</p>
-</div>
+
 
 
