@@ -40,7 +40,7 @@ Here are some ideas to get you started:
       src="https://cdn4.iconfinder.com/data/icons/socialcones/508/StackOverflow-256.png"
       alt="Mohammad Derakhshan" height="30" width="30" /></a>
     
-  <a href="https://g.dev/derakhshan.com" target="blank"><img align="left"
+  <a href="https://g.dev/derakhshan" target="blank"><img align="left"
       src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Google-256.png"
       alt="Mohammad Derakhshan" height="30" width="30" /></a>
     
