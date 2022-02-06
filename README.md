@@ -17,16 +17,17 @@ Here are some ideas to get you started:
 
 <h3>Statistical Data :-</h3>
 
+<p>
 <div>
 <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=m-derakhshan&show_icons=true&locale=en&layout=compact"
-    alt="m-derakhshan" />
-    
-    <br>
-
+    alt="m-derakhshan"/>
+</div>
+</p>
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-derakhshan&show_icons=true&locale=en"
     alt="m-derakhshan" />
+</p>
 
-</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-derakhshan&" alt="m-derakhshan" /></p>
