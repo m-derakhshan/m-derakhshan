@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a master student at University of Milan
 - 🌱 I’m currently learning test deriven development for android applications
 - 💬 I would be more that happy, if you have any question about android
-- 📫 drop me a message: darakhshan1376@gmail.com
+- 📫 drop me a message: mammad.derakhshan98@gmail.com
 
 <h3> 📊 Statistical Data :</h3>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
