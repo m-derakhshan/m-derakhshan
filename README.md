@@ -10,9 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a master student at University of Milan
-- 🌱 My focus at the moment is on learning test-driven development for android applications
-- 📫 Drop me a message: mammad.derakhshan98@gmail.com
+- 📫 Drop me a message: IamDerakhshan@gmail.com
 
 <h3> 📊 Statistical Data :</h3>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
