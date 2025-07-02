@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 
 <h3> 📊 Statistical Data :</h3>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-<center>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=m-derakhshan&" alt="m-derakhshan" style="text-align:center" /></p>
-</center>
-
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-derakhshan&show_icons=true&locale=en"
     alt="m-derakhshan" />
