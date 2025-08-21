@@ -36,7 +36,7 @@ Here are some ideas to get you started:
       src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Google-256.png"
       alt="Mohammad Derakhshan" height="30" width="30" /></a>
     
-  <a href="https://www.instagram.com/mohammad.darakhshan/" target="blank"><img align="left"
+  <a href="https://www.instagram.com/mammad.darakhshan/" target="blank"><img align="left"
       src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"
       alt="Mohammad Derakhshan" height="30" width="30" /></a>
  </div>
